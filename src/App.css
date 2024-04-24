@@ -1,0 +1,27 @@
+/* App.css */
+
+.app-container {
+  padding: 20px;
+}
+
+.welcome-container {
+  text-align: center;
+}
+
+.dashboard-container {
+  text-align: center;
+}
+
+.movie-container {
+  margin-top: 20px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  transition: box-shadow 0.3s;
+}
+
+.card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,596 @@
+[
+   {
+      "name": "Inception",
+      "genre": "Science Fiction",
+      "ratings": 8.8,
+      "actors": [
+         "Leonardo DiCaprio",
+         "Joseph Gordon-Levitt"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Inception is a mind-bending science fiction film directed by Christopher Nolan."
+   },
+   {
+      "name": "The Dark Knight",
+      "genre": "Action",
+      "ratings": 9.0,
+      "actors": [
+         "Christian Bale",
+         "Heath Ledger"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Dark Knight is a gritty superhero film directed by Christopher Nolan."
+   },
+   {
+      "name": "Pulp Fiction",
+      "genre": "Crime",
+      "ratings": 8.9,
+      "actors": [
+         "John Travolta",
+         "Samuel L. Jackson"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Pulp Fiction is a stylish crime film directed by Quentin Tarantino."
+   },
+   {
+      "name": "The Shawshank Redemption",
+      "genre": "Drama",
+      "ratings": 9.3,
+      "actors": [
+         "Tim Robbins",
+         "Morgan Freeman"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Shawshank Redemption is a powerful drama about hope and friendship in the face of adversity."
+   },
+   {
+      "name": "Forrest Gump",
+      "genre": "Drama",
+      "ratings": 8.8,
+      "actors": [
+         "Tom Hanks",
+         "Robin Wright"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Forrest Gump is a heartwarming drama that follows the life of a kind-hearted man with remarkable experiences."
+   },
+   {
+      "name": "The Matrix",
+      "genre": "Science Fiction",
+      "ratings": 8.7,
+      "actors": [
+         "Keanu Reeves",
+         "Laurence Fishburne"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Matrix is a groundbreaking science fiction film that explores the nature of reality and freedom."
+   },
+   {
+      "name": "Titanic",
+      "genre": "Romance",
+      "ratings": 7.8,
+      "actors": [
+         "Leonardo DiCaprio",
+         "Kate Winslet"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Titanic is a romantic disaster film that depicts the tragic sinking of the RMS Titanic."
+   },
+   {
+      "name": "Gladiator",
+      "genre": "Action",
+      "ratings": 8.5,
+      "actors": [
+         "Russell Crowe",
+         "Joaquin Phoenix"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Gladiator is an epic historical drama that follows the story of a Roman general seeking revenge."
+   },
+   {
+      "name": "Avatar",
+      "genre": "Science Fiction",
+      "ratings": 7.8,
+      "actors": [
+         "Sam Worthington",
+         "Zoe Saldana"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Avatar is a visually stunning science fiction film set on the alien world of Pandora."
+   },
+   {
+      "name": "The Godfather",
+      "genre": "Crime",
+      "ratings": 9.2,
+      "actors": [
+         "Marlon Brando",
+         "Al Pacino"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Godfather is a classic crime film that follows the rise of the Corleone crime family."
+   },
+   {
+      "name": "Interstellar",
+      "genre": "Science Fiction",
+      "ratings": 8.6,
+      "actors": [
+         "Matthew McConaughey",
+         "Anne Hathaway"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Interstellar is an ambitious science fiction film that explores space travel and the survival of humanity."
+   },
+   {
+      "name": "Inglourious Basterds",
+      "genre": "War",
+      "ratings": 8.3,
+      "actors": [
+         "Brad Pitt",
+         "Christoph Waltz"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Inglourious Basterds is a World War II film with a unique and stylized approach to storytelling."
+   },
+   {
+      "name": "The Wolf of Wall Street",
+      "genre": "Biography",
+      "ratings": 8.2,
+      "actors": [
+         "Leonardo DiCaprio",
+         "Jonah Hill"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Wolf of Wall Street is a biographical film based on the true story of Jordan Belfort."
+   },
+   {
+      "name": "The Green Mile",
+      "genre": "Crime",
+      "ratings": 8.6,
+      "actors": [
+         "Tom Hanks",
+         "Michael Clarke Duncan"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Green Mile is a powerful drama set on death row, exploring themes of humanity and redemption."
+   },
+   {
+      "name": "Django Unchained",
+      "genre": "Western",
+      "ratings": 8.4,
+      "actors": [
+         "Jamie Foxx",
+         "Christoph Waltz"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Django Unchained is a violent and entertaining Western film directed by Quentin Tarantino."
+   },
+   {
+      "name": "Fight Club",
+      "genre": "Drama",
+      "ratings": 8.8,
+      "actors": [
+         "Brad Pitt",
+         "Edward Norton"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Fight Club is a dark and edgy drama that explores themes of consumerism and societal rebellion."
+   },
+   {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy",
+      "ratings": 8.8,
+      "actors": [
+         "Elijah Wood",
+         "Ian McKellen"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Fellowship of the Ring is the first installment in the epic fantasy trilogy based on J.R.R. Tolkien's novels."
+   },
+   {
+      "name": "The Silence of the Lambs",
+      "genre": "Crime",
+      "ratings": 8.6,
+      "actors": [
+         "Jodie Foster",
+         "Anthony Hopkins"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Silence of the Lambs is a chilling psychological thriller that features iconic performances."
+   },
+   {
+      "name": "Goodfellas",
+      "genre": "Biography",
+      "ratings": 8.7,
+      "actors": [
+         "Robert De Niro",
+         "Ray Liotta"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Goodfellas is a gripping crime drama based on the true story of a mobster's rise and fall."
+   },
+   {
+      "name": "The Revenant",
+      "genre": "Adventure",
+      "ratings": 8.0,
+      "actors": [
+         "Leonardo DiCaprio",
+         "Tom Hardy"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Revenant is a brutal survival drama set in the American wilderness."
+   },
+   {
+      "name": "Saving Private Ryan",
+      "genre": "War",
+      "ratings": 8.6,
+      "actors": [
+         "Tom Hanks",
+         "Matt Damon"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Saving Private Ryan is an intense war film that follows a group of soldiers on a mission to save a paratrooper."
+   },
+   {
+      "name": "Se7en",
+      "genre": "Crime",
+      "ratings": 8.6,
+      "actors": [
+         "Morgan Freeman",
+         "Brad Pitt"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Se7en is a dark and atmospheric crime thriller centered around a series of gruesome murders."
+   },
+   {
+      "name": "The Intouchables",
+      "genre": "Biography",
+      "ratings": 8.5,
+      "actors": [
+         "François Cluzet",
+         "Omar Sy"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Intouchables is a heartwarming French film based on the true story of an unlikely friendship between a quadriplegic aristocrat and his caregiver."
+   },
+   {
+      "name": "The Pursuit of Happyness",
+      "genre": "Biography",
+      "ratings": 8.0,
+      "actors": [
+         "Will Smith",
+         "Jaden Smith"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Pursuit of Happyness is an inspiring biographical drama about overcoming obstacles to achieve success and happiness."
+   },
+   {
+      "name": "Schindler's List",
+      "genre": "Biography",
+      "ratings": 8.9,
+      "actors": [
+         "Liam Neeson",
+         "Ben Kingsley"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Schindler's List is a powerful historical drama based on the true story of Oskar Schindler, a German businessman who saved Jews during the Holocaust."
+   },
+   {
+      "name": "The Pianist",
+      "genre": "Biography",
+      "ratings": 8.5,
+      "actors": [
+         "Adrien Brody",
+         "Thomas Kretschmann"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Pianist is a poignant biographical film that tells the story of a Jewish pianist's struggle for survival during the Holocaust."
+   },
+   {
+      "name": "Whiplash",
+      "genre": "Drama",
+      "ratings": 8.5,
+      "actors": [
+         "Miles Teller",
+         "J.K. Simmons"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Whiplash is an intense drama about the abusive relationship between a talented drummer and his demanding instructor."
+   },
+   {
+      "name": "The Usual Suspects",
+      "genre": "Crime",
+      "ratings": 8.5,
+      "actors": [
+         "Kevin Spacey",
+         "Gabriel Byrne"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Usual Suspects is a gripping crime thriller known for its clever plot twists and memorable characters."
+   },
+   {
+      "name": "American History X",
+      "genre": "Drama",
+      "ratings": 8.5,
+      "actors": [
+         "Edward Norton",
+         "Edward Furlong"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "American History X is a thought-provoking drama that explores the roots of hate and the possibility of redemption."
+   },
+   {
+      "name": "The Lion King",
+      "genre": "Animation",
+      "ratings": 8.5,
+      "actors": [
+         "Matthew Broderick",
+         "Jeremy Irons"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Lion King is a beloved animated film that tells the coming-of-age story of Simba, a young lion prince."
+   },
+   {
+      "name": "The Sixth Sense",
+      "genre": "Drama",
+      "ratings": 8.1,
+      "actors": [
+         "Bruce Willis",
+         "Haley Joel Osment"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Sixth Sense is a supernatural thriller known for its twist ending and eerie atmosphere."
+   },
+   {
+      "name": "Braveheart",
+      "genre": "Biography",
+      "ratings": 8.3,
+      "actors": [
+         "Mel Gibson",
+         "Sophie Marceau"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Braveheart is an epic historical drama based on the life of Scottish warrior William Wallace."
+   },
+   {
+      "name": "Life Is Beautiful",
+      "genre": "Comedy",
+      "ratings": 8.6,
+      "actors": [
+         "Roberto Benigni",
+         "Nicoletta Braschi"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Life Is Beautiful is a touching comedy-drama set during World War II, highlighting the power of imagination and love."
+   },
+   {
+      "name": "A Beautiful Mind",
+      "genre": "Biography",
+      "ratings": 8.2,
+      "actors": [
+         "Russell Crowe",
+         "Ed Harris"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "A Beautiful Mind is a biographical drama about the mathematician John Nash and his struggle with mental illness."
+   },
+   {
+      "name": "Jurassic Park",
+      "genre": "Science Fiction",
+      "ratings": 8.1,
+      "actors": [
+         "Sam Neill",
+         "Laura Dern"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Jurassic Park is a groundbreaking science fiction adventure film about a theme park populated by genetically engineered dinosaurs."
+   },
+   {
+      "name": "Gone with the Wind",
+      "genre": "Romance",
+      "ratings": 8.1,
+      "actors": [
+         "Clark Gable",
+         "Vivien Leigh"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Gone with the Wind is a classic romance film set against the backdrop of the American Civil War."
+   },
+   {
+      "name": "The Shining",
+      "genre": "Horror",
+      "ratings": 8.4,
+      "actors": [
+         "Jack Nicholson",
+         "Shelley Duvall"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Shining is a psychological horror film based on Stephen King's novel, featuring an eerie hotel and a descent into madness."
+   },
+   {
+      "name": "The Grand Budapest Hotel",
+      "genre": "Comedy",
+      "ratings": 8.1,
+      "actors": [
+         "Ralph Fiennes",
+         "F. Murray Abraham"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Grand Budapest Hotel is a quirky comedy film set in a fictional European hotel between the wars."
+   },
+   {
+      "name": "The Good, the Bad and the Ugly",
+      "genre": "Western",
+      "ratings": 8.8,
+      "actors": [
+         "Clint Eastwood",
+         "Eli Wallach"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Good, the Bad and the Ugly is a classic spaghetti Western known for its iconic characters and epic showdowns."
+   },
+   {
+      "name": "City of God",
+      "genre": "Crime",
+      "ratings": 8.6,
+      "actors": [
+         "Alexandre Rodrigues",
+         "Leandro Firmino"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "City of God is a Brazilian crime drama that depicts life in the favelas of Rio de Janeiro."
+   },
+   {
+      "name": "The Bridge on the River Kwai",
+      "genre": "War",
+      "ratings": 8.1,
+      "actors": [
+         "William Holden",
+         "Alec Guinness"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Bridge on the River Kwai is a World War II drama set in a Japanese prisoner-of-war camp."
+   },
+   {
+      "name": "Reservoir Dogs",
+      "genre": "Crime",
+      "ratings": 8.3,
+      "actors": [
+         "Harvey Keitel",
+         "Tim Roth"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Reservoir Dogs is a stylish crime film that explores the aftermath of a botched diamond heist."
+   },
+   {
+      "name": "The Great Gatsby",
+      "genre": "Drama",
+      "ratings": 7.2,
+      "actors": [
+         "Leonardo DiCaprio",
+         "Carey Mulligan"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Great Gatsby is a visually stunning drama based on F. Scott Fitzgerald's classic novel of the Roaring Twenties."
+   },
+   {
+      "name": "The Terminator",
+      "genre": "Science Fiction",
+      "ratings": 8.0,
+      "actors": [
+         "Arnold Schwarzenegger",
+         "Linda Hamilton"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Terminator is a groundbreaking science fiction film about a cyborg assassin sent back in time."
+   },
+   {
+      "name": "The Exorcist",
+      "genre": "Horror",
+      "ratings": 8.0,
+      "actors": [
+         "Ellen Burstyn",
+         "Max von Sydow"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Exorcist is a classic horror film that follows the demonic possession of a young girl and the attempts to save her."
+   },
+   {
+      "name": "Amélie",
+      "genre": "Comedy",
+      "ratings": 8.3,
+      "actors": [
+         "Audrey Tautou",
+         "Mathieu Kassovitz"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Amélie is a charming French romantic comedy about a whimsical young woman in Paris."
+   },
+   {
+      "name": "Scarface",
+      "genre": "Crime",
+      "ratings": 8.3,
+      "actors": [
+         "Al Pacino",
+         "Michelle Pfeiffer"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Scarface is a gritty crime drama that tells the rise and fall of a Cuban immigrant turned drug lord in Miami."
+   },
+   {
+      "name": "The Prestige",
+      "genre": "Drama",
+      "ratings": 8.5,
+      "actors": [
+         "Christian Bale",
+         "Hugh Jackman"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Prestige is a captivating drama centered around rival magicians in London during the 19th century."
+   },
+   {
+      "name": "Finding Nemo",
+      "genre": "Animation",
+      "ratings": 8.1,
+      "actors": [
+         "Albert Brooks",
+         "Ellen DeGeneres"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Finding Nemo is a heartwarming animated adventure about a clownfish searching for his lost son in the ocean."
+   },
+   {
+      "name": "Drive",
+      "genre": "Crime",
+      "ratings": 7.8,
+      "actors": [
+         "Ryan Gosling",
+         "Carey Mulligan"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Drive is a stylish crime thriller that follows a Hollywood stunt driver who moonlights as a getaway driver."
+   },
+   {
+      "name": "The Big Lebowski",
+      "genre": "Comedy",
+      "ratings": 8.1,
+      "actors": [
+         "Jeff Bridges",
+         "John Goodman"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Big Lebowski is a cult classic comedy about an easygoing slacker who gets caught up in a bizarre kidnapping case."
+   },
+   {
+      "name": "In Bruges",
+      "genre": "Comedy",
+      "ratings": 7.9,
+      "actors": [
+         "Colin Farrell",
+         "Brendan Gleeson"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "In Bruges is a darkly comedic crime film that follows two hitmen hiding out in the picturesque city of Bruges, Belgium."
+   },
+   {
+      "name": "The Social Network",
+      "genre": "Biography",
+      "ratings": 7.7,
+      "actors": [
+         "Jesse Eisenberg",
+         "Andrew Garfield"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "The Social Network is a biographical drama about the founding of Facebook and the conflicts that arise among its creators."
+   },
+   {
+      "name": "Dallas Buyers Club",
+      "genre": "Biography",
+      "ratings": 8.0,
+      "actors": [
+         "Matthew McConaughey",
+         "Jared Leto"
+      ],
+      "url": "https://placehold.co/150",
+      "description": "Dallas Buyers Club is a biographical drama based on the true story of Ron Woodroof, who fought to make AIDS medication accessible."
+   }
+]
